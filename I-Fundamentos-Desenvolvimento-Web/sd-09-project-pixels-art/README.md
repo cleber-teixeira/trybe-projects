@@ -7,6 +7,7 @@
 
 <div align="center" >
   <img width="700" src="./project-js-pixels-arts.gif" />
+  <p>Link para o projeto: <a href="https://cleber-teixeira.github.io/projetos/pixels-art/">Pixels Arts</a></p>
 </div>
 
 ---
