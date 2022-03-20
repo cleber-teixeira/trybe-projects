@@ -9,3 +9,4 @@ As principais stacks técnicas estudadas são JavaScript, HTML, CSS, React, Node
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 #### JavaScript
 - *[Project - Playground Functions](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-playground-functions)*
+- *[Project - Pixels Art](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-pixels-art)* | [App Pixels Art](https://cleber-teixeira.github.io/projetos/pixels-art/)
