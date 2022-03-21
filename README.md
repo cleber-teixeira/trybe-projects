@@ -8,7 +8,7 @@ As principais stacks técnicas estudadas são JavaScript, HTML, CSS, React, Node
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 #### HTML & CSS
-- :octocat: *[Project - Lessons Learned](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-lessons-learned/)* | :rocket: [Lessons Learned - Site](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-lessons-learned/)
+- :octocat: *[Project - Lessons Learned](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-lessons-learned/)* | :rocket: [Lessons Learned - Site](https://cleber-teixeira.github.io/projetos/lessons-learned/)
 
 #### JavaScript
 - :octocat: *[Project - Playground Functions](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-playground-functions)*
