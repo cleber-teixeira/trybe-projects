@@ -7,6 +7,9 @@ O programa de treinamento de desenvolvimento web da Trybe tem uma carga de traba
 As principais stacks técnicas estudadas são JavaScript, HTML, CSS, React, Node, Express.js, SQL, MongoDB, Python, Git, entre outras ferramentas e frameworks.
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
+#### HTML & CSS
+- :octocat: *[Project - Lessons Learned](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-lessons-learned/)* | :rocket: [Lessons Learned - Site](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-lessons-learned/)
+
 #### JavaScript
-- *[Project - Playground Functions](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-playground-functions)*
-- *[Project - Pixels Art](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-pixels-art)* | [App Pixels Art](https://cleber-teixeira.github.io/projetos/pixels-art/)
+- :octocat: *[Project - Playground Functions](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-playground-functions)*
+- :octocat: *[Project - Pixels Art](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-pixels-art)* | :rocket: [Pixels Art - App](https://cleber-teixeira.github.io/projetos/pixels-art/)
