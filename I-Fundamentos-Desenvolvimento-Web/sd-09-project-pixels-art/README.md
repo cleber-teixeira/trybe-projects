@@ -1,4 +1,4 @@
-# Project Pixels Art :art:
+# Pixels Art Project :art:
 
 > ### Projeto da Trybe <img align="center" alt="Js" height="30" width="30" src="https://scontent.fcgh24-1.fna.fbcdn.net/v/t1.6435-9/129351852_2818690001753270_85015407846271114_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=tfLU1xaTn3sAX-Ruhdi&_nc_ht=scontent.fcgh24-1.fna&oh=00_AT_ONAacPaQaVgYEDwZ6uN-6BJVveyEybKBI6q9NMKXB2Q&oe=6253555C">
 > - Formação: **Desenvolvimento Web Full Stack**

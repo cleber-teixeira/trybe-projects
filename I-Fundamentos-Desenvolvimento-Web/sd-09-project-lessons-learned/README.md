@@ -38,13 +38,13 @@ Front-End:
 > Html 5, CSS 3
 
 ---
-### Executando aplicação
+### Executando  o Projeto :rocket:
 
 > Diretório Raiz
 - index.html
 
 ---
-### Contatos
+### Contatos  :email:
 <h2 align="center">Cleber Lopes Teixeira</h2>
 
 <p align="center">
