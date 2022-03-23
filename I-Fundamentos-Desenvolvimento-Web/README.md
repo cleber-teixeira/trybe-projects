@@ -5,7 +5,7 @@
 >## Fundamentos do Desenvolvimento Web :white_check_mark:
 
 - Bloco 03: **Introdução à HTML e CSS**
-    - :octocat: *[Project - Lessons Learned](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-lessons-learned/)* | :rocket: [Lessons Learned - Site](https://cleber-teixeira.github.io/projetos/lessons-learned/)
+    - :octocat: *[Project - Lessons Learned](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-lessons-learned/)* | :desktop_computer: [Web - Lessons Learned](https://cleber-teixeira.github.io/projetos/lessons-learned/)
 
 
 - Bloco 04: **Introdução à JavaScript e Lógica de Programação**
@@ -13,4 +13,5 @@
 
 
 - Bloco 05: **JavaScript: DOM, Eventos e Web Storage**
-    - :octocat: *[Project - Pixels Art](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-pixels-art)* | :rocket: [Pixels Art - App](https://cleber-teixeira.github.io/projetos/pixels-art/)
+    - :octocat: *[Project - Pixels Art](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-pixels-art)* | :desktop_computer: [Web - Pixels Art](https://cleber-teixeira.github.io/projetos/pixels-art/)
+    - :octocat: *[Project - Todo List](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-todo-list/)* | :desktop_computer: [Web - Todo List](https://cleber-teixeira.github.io/projetos/todo-list/)
