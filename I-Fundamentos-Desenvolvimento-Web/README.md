@@ -14,4 +14,7 @@
 
 - Bloco 05: **JavaScript: DOM, Eventos e Web Storage**
     - :octocat: *[Project - Pixels Art](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-pixels-art)* | :desktop_computer: [Web - Pixels Art](https://cleber-teixeira.github.io/projetos/pixels-art/)
+
     - :octocat: *[Project - Todo List](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-todo-list/)* | :desktop_computer: [Web - Todo List](https://cleber-teixeira.github.io/projetos/todo-list/)
+
+    - :octocat: *[Project - Color Guess](https://github.com/cleber-teixeira/sd-09-project-color-guess/tree/fd253a0cb1cb51e32a33aff12c0c49338a6b7d9f)* | :desktop_computer: [Web - Color Guess](https://cleber-teixeira.github.io/projetos/color-guess/)
