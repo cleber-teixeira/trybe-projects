@@ -1,3 +1,6 @@
 [submodule "I-Fundamentos-Desenvolvimento-Web/sd-09-project-color-guess"]
 	path = I-Fundamentos-Desenvolvimento-Web/sd-09-project-color-guess
 	url = https://github.com/cleber-teixeira/sd-09-project-color-guess
+[submodule "I-Fundamentos-Desenvolvimento-Web/sd-09-project-facebook-signup"]
+	path = I-Fundamentos-Desenvolvimento-Web/sd-09-project-facebook-signup
+	url = https://github.com/cleber-teixeira/sd-09-project-facebook-signup
