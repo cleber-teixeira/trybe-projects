@@ -15,4 +15,7 @@ As principais stacks técnicas estudadas são JavaScript, HTML, CSS, React, Node
 
 > Bloco 05: **JavaScript: DOM, Eventos e Web Storage**
   - :octocat: *[Project - Pixels Art](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-pixels-art)* | :desktop_computer: [Web - Pixels Art](https://cleber-teixeira.github.io/projetos/pixels-art/)
+
   - :octocat: *[Project - Todo List](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-todo-list/)* | :desktop_computer: [Web - Todo List](https://cleber-teixeira.github.io/projetos/todo-list/)
+
+  - :octocat: *[Project - Color Guess](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-color-guess/)* | :desktop_computer: [Web - Color Guess](https://cleber-teixeira.github.io/projetos/color-guess/)
