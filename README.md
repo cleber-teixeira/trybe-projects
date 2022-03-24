@@ -19,3 +19,6 @@ As principais stacks técnicas estudadas são JavaScript, HTML, CSS, React, Node
   - :octocat: *[Project - Todo List](/I-Fundamentos-Desenvolvimento-Web/sd-09-project-todo-list/)* | :desktop_computer: [Web - Todo List](https://cleber-teixeira.github.io/projetos/todo-list/)
 
   - :octocat: *[Project - Color Guess](https://github.com/cleber-teixeira/sd-09-project-color-guess)* | :desktop_computer: [Web - Color Guess](https://cleber-teixeira.github.io/projetos/color-guess/)
+
+> Bloco 06: **HTML e CSS: Forms, Flexbox e Responsivo**
+  - :octocat: *[Project - Facebook Signup](https://github.com/cleber-teixeira/sd-09-project-facebook-signup)* | :desktop_computer: [Web - Facebook Signup](https://cleber-teixeira.github.io/projetos/facebook-signup/)
