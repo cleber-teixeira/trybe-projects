@@ -4,3 +4,6 @@
 [submodule "I-Fundamentos-Desenvolvimento-Web/sd-09-project-facebook-signup"]
 	path = I-Fundamentos-Desenvolvimento-Web/sd-09-project-facebook-signup
 	url = https://github.com/cleber-teixeira/sd-09-project-facebook-signup
+[submodule "I-Fundamentos-Desenvolvimento-Web/sd-09-project-js-unit-tests"]
+	path = I-Fundamentos-Desenvolvimento-Web/sd-09-project-js-unit-tests
+	url = https://github.com/cleber-teixeira/sd-09-project-js-unit-tests
