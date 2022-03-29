@@ -23,3 +23,6 @@
   - :octocat: *[Project - Facebook Signup](https://github.com/cleber-teixeira/sd-09-project-facebook-signup)* | :desktop_computer: [Web - Facebook Signup](https://cleber-teixeira.github.io/projetos/facebook-signup/)
 - Bloco 07: **Introdução à JavaScript ES6 e Testes Unitários**
   - :octocat: *[Project - JS Unit Tests](https://github.com/cleber-teixeira/sd-09-project-js-unit-tests)*
+
+- Bloco 08: **Higher Order Functions do JavaScript ES6**
+  - :octocat: *[Project - Zoo Functions](https://github.com/cleber-teixeira/sd-09-project-zoo-functions)*
